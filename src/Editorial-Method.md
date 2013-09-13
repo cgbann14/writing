@@ -1,0 +1,27 @@
+#Editorial Method#
+
+The stelae are inscribed in *stoichedon* style, therefore in order to be faithful to the text my diplomatic edition contains no spaces between words and each letter takes up the same amount of space. 
+
+For the first two years I relied almost exclusively on the drawings instead of the photographs for editing. Due to the size of Stele 1 and the nature of its reconstruction in the Epigraphic Museum, it was not possible for me to get photos of these years (which are at the topmost part of the obverse face) that were clear and detailed enough to use for editing. After these years, I worked primarily from my photography.All characters marked as `<supplied resp="ATL">` come from ATL Volume II. 
+
+## TEI markup ##
+
+
+All characters encoded with a `<clear>` tag must be semantically clear, if not completely visually clear. Therefore, this includes both characters that are completely and unambiguously visible on the stone and characters that may be partially missing but only have one real possibility and are therefore semantically clear. The `<unclear>` tag is used for characters that are not fully extant on the stone and that have multiple possibilities for restoration. They are semantically ambiguous and therefore must be marked. The `<supplied>` tag is used for characters with no traces extant on the stone that have been restored by an editor. All supplied characters are interpretations. Where the ATL editors have made restorations, they are identified with the tag `<supplied resp="ATL">`. Often the ATL has a character marked as clear in their edition, but there is no trace of the character visible on the stone. In these instances I mark the character as `<supplied resp="ATL">` so that my edition is as diplomatic as possible. These discrepancies may be due to additional wear on the stelae since the ATL's publication in 1949 rather than overly confident editing. Nevertheless, my editorial work is guided by the principle to represent as clear only what remains extant and can be seen on the stone today.
+
+
+I have used the Greek high-stop (·) to represent the Epigraphic punctuation mark that is two or three dots stacked vertically. I chose to use this punctuation instead of a colon (:), which it more closely resembles, in order to stay within the Greek alphabet and because the high-stop and the Epigraphic punctuation mark have the same semantics. 
+
+All lost stones are encoded using the identifier `<seg n="1" type="stone" ana="lost">` but are not marked as `<supplied>`. For all lost stones, I have examined the ATL drawings and encoded them using the same conventions of clear and unclear as I used for the photographs. 
+	
+The ATL editors use the notation `< >` to mark “letters read by the editors which were wrongly cut or inadvertently omitted by the stonecutter.” These are instances where there is a clear character visible on the stone but they have chosen to change it to another. Reasons for doing so include supposed misspellings of place names and odd payment amounts. Although these may be valid interpretations, I could not call this a diplomatic edition if I chose to handle these possibly puzzling entries in the same way. I do not want to eliminate the possibility that these are examples of alternate forms rather than misspellings of place names and that poleis only paid tribute in neat round amounts. 
+
+Where the ATL editors have used the notation ( ) to mark “letters added by way of interpretation of an abbreviated text” I use the markup `<choice><abbr></abbr><expan></expan></choice>`. 
+
+I have assigned a numerical identifier to each place name. When there are variant spellings of a place name, they are all given the same identifier. 
+
+There are a few editorial concerns specific to the normalized version. I have added accents, breath marks, spaces between words, and made changes from the epigraphic alphabet to its corresponding literary equivalences.
+
+Since transliteration equivalences may require two letters to be put in the place of one or vice versa, the normalized edition cannot stay true to the stoichedon style. I have removed all stone numbers so that it does not misrepresenttransliteration equivalences as characters present on the actual stone. When two letters in the diplomatic edition would form one in the normalized edition (ie: ΦΣ to ψ) and one of the two letters is completely missing, the normalized letter is marked as `<unclear>`. When one or both letters are partially missing but are semantically clear, the normalized letter is marked as clear. 
+
+
