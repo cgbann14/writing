@@ -6,7 +6,6 @@ Events: Death of Aristides the Just, Ostracism of Themistocles
 
 Sources: Cornelius Nepos "Lives of Famous Men", Plutarch "Life of Themistocles" & "Life of Aristides", Aeschylus "The Persians" 
 
-<<<<<<< HEAD
 Chronological Systems: Nepos says (3.3) that Aristides died “about 4 years” after the ostracism of Themistocles in Athens. Diodorus dates Athenian archons. 
 
 

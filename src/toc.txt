@@ -1,0 +1,10 @@
+outline.md=Outline
+guide-to-stele-1.md=Guide to reading stele 1
+Editorial-Method.md=Editorial method
+PrimarySources.md=Important primary sources
+Thucydides.md=Thucydides
+OldOligarch.md=The Old Oligarch
+Xenophon.md=Xenophon
+Chronology.md=Chronological questions
+TreasuryChronology.md=Chronology of the transfer of the League Treasury to Athens
+AristidesChronology.md=Chronology of the death of Aristides
