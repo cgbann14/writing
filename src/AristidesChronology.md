@@ -1,6 +1,5 @@
 
 
-
 Cornelius Nepos states that Aristides died four years after Themistocles was ostracized. 
 Events: Death of Aristides the Just, Ostracism of Themistocles 
 
@@ -21,3 +20,6 @@ Plutarch acknowledges difficulties in chronology in section 27 of his *Life of T
 These sources in conjunction with Cornelius Nepos' account put Aristides' death either in 468 or 461 B.C.E. 
 
 Either way, Aristides would have died before 454 B.C.E. when the treasury was moved from Delos to Athens. But Plutarch has Aristides commenting on this event, "Aristides said that the proposal was unjust, but that it was to Athens' advantage." (section 25)
+
+
+
