@@ -1,1 +1,3 @@
-In order to better filter the data, I have established identifiers to signify the epigraphic confidence level of a certain place name. 
+In order to better filter the data, I have established identifiers to signify the epigraphic confidence levels of place names. These are not based on historical context, geography, or patterns within the text. They are based on the visual epigraphic evidence: the clarity of the letters.  The highest level is "extant": the place name is completely visible on the stone or there is no other possible reading. A few letters may be unclear or missing (e.g. the common masculine ending ΟΙ) but there is virtually no doubt as to its meaning. 
+
+When there are only a few letters preserved in a line and no restoration has been attempted by the ATL editors and it has not been tagged as a certain place, then there will be no confidence level applied to it. 
