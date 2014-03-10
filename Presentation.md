@@ -1,30 +1,35 @@
-# Slide show in markdown! #
-
-Separate slides with a "horizontal line" (three dashes)
-
----
-
-## Title ##
+#A Reassessment of Athenian Imperial Tribute#
 
 
-Title slide with level-two heading (two "#")
 
 
----
+___
+## Historical Context ##
 
-## Links ##
+![Delos](Delos.jpg)
 
-Here's a link to a URL:  linked text in square brackets, URL in parentheses, so here's a link to the
-[Phoros home page](http://beta.hpcc.uh.edu/tomcat/phoros/)
+![Acropolis](Acropolis.jpg)
 
----
+![Parthenon](Parthenon.jpg)
 
-## Embed images ##
 
-If you want an image to embed intstead of link, put ! in front of the link.
+φόρος
 
-Here's a map in my text!
 
-![caption](2-map.jpg)
+
 
 ---
+## The Athenian Tribute Lists ##
+
+
+![Tribute Lists](ATLoverview.jpg)
+
+
+---
+## Chronology ##
+
+
+---
+## New Approach ##
+
+Editing Process
