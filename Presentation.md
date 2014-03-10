@@ -45,9 +45,13 @@ Digital Diplomatic and Normalized Editions
 ---
 ## Phaselis ##
 
+3 Analyses
+
 [Chart](http://beta.hpcc.uh.edu/tomcat/phoros/survival.html)
 
 [Map: Payment Changes and Size of Payments](http://beta.hpcc.uh.edu/tomcat/phoros/mapByYearScaled.html)
+
+Sequencing
 
 ---
 ## Accessibility ##
