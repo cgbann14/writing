@@ -1,4 +1,4 @@
-
+﻿
 #A Reassessment of Athenian Imperial Tribute#
 
 
@@ -21,7 +21,7 @@ ___
 ![map](persian_empire.jpg)
 
 ---
-## Historical Context ##
+## Delian League ##
 
 
 ![Delos](Delos.JPG)
@@ -29,7 +29,7 @@ ___
 
 ---
 
-## "Tribute"
+## "Tribute" ##
 **phoros/φόρος**
 
 ![drachma](Coin.jpg)
@@ -37,8 +37,6 @@ ___
 
 
 ---
-
-
 
 ![Acropolis](Acropolis.jpg)
 
@@ -53,6 +51,15 @@ ___
 
 (ADD QUOTE FROM STROUD)
 
+
+
+## The Athenian Tribute Lists ##
+
+**aparchai** / ἀπαρχαί 
+
+![Stelae](ATLoverview.jpg)
+
+
 ----
 
 ## Complex evidence demands new approaches ##
@@ -62,11 +69,7 @@ ___
 
 ---
 
-## The Athenian Tribute Lists ##
 
-**aparchai** / ἀπαρχαί 
-
-![Stelae](ATLoverview.jpg)
 
 ---
 ![Stele1](Stele1&Me.jpg)
@@ -179,6 +182,12 @@ EXAMPLE:  FILTER BY YEARS + FILTER BY CONFIDENCE
 
 - github repository?
 - live installation
+
+
+---
+Some of us probably will not be around to see the new lapis primus but many younger scholars and students will be witnesses, perhaps even participants in what could well be a radical rewriting of Athenian history from the stones.
+
+-Ronald Stroud 
 
 ---
 
