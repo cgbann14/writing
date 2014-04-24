@@ -1,11 +1,9 @@
 ﻿
 In order to better filter the data, I have established identifiers to signify the epigraphic confidence levels of place names and payments. These are for the diplomatic editions only, as they are the truest representation of the evidence.   
 
-All three levels may contain partially restored readings. Therefore, the confidence levels do not simply denote whether a reading has been restored or not; the markup tag <supplied> serves this purpose. The levels are intended to denote the true reliability of the reading and therefore to avoid arbitrary classifications; a place name missing its last letter is no less semantically clear than if it were fully extant. The confidence level term will be marked using the ana descriptor within the place name or measure tag.
+All three levels may contain partially restored readings. Therefore, the confidence levels do not simply denote whether a reading has been restored or not; the markup tag <supplied> serves this purpose. The levels are intended to denote the true reliability of the reading and therefore to avoid arbitrary classifications; a place name missing its last letter is no less semantically clear than if it were fully extant. 
 
-E.g. 
-<measure type="currency" unit="obol" ana="extant">
-<placeName n="urn:cite:phoros:places.107" ana="extant">
+
 
 *Place Names*
 
@@ -46,7 +44,7 @@ A reading may also qualify as "confident" if there are several characters unclea
 
 
 
-The lowest level is "restored" and has the same criteria for place names. The reading has been either completely restored by the ATL editors or there is so little extant epigraphic evidence (e.g. one obol) that there are several possible readings. 
+The lowest level is "restored" and has the same criteria for place names. The reading has been either completely restored by the ATL editors or there is so little extant epigraphic evidence (e.g. one obol) that there are several possible readings. When an amount 
 
 
 
