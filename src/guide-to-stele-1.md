@@ -1,4 +1,4 @@
-﻿#Guide to Reading the First Eight Years of the Quota Lists#
+#Guide to Reading the First Eight Years of the Quota Lists#
 
 
 The Athenian Tribute Quota Lists recorded the aparchai on four stelae for the 49(???ATL number) years of tribute collection. I edited the first eight years of the lists, which are inscribed on Stele 1. Years 1-7 are inscribed on the obverse face and Year 8 is inscribed on the right lateral face. 
@@ -9,12 +9,15 @@ The inscriptions  use the stoichedon method. This term is derived from the adver
 
 The lists use the Attic alphabet which is slightly different from the alphabet readers of literary Ancient Greek are familiar with. No accents or breath marks are used. The table below allows the reader to convert the text to normalized literary Greek.
 
-→ Insert screenshot of transliteration equivalences ← 
+!{Transliteration Equivalences}[TransliterationEquivalences.png]
+
 
 The payments are inscribed using the Attic acrophonic numeral system. The character used to represent a number is determined by the first letter of the word for that letter (e.g. Π represents 5 drachmae because the word for five is πέντε). Unlike the Roman numeral system, the acrophonic system is only additive (e.g. 9 drachmae is ΠΙΙΙΙ not ΙΔ). The number five in increasing orders of magnitude are represented with composites of pi (e.g. 50 is written as a delta nesting within a pi since 5X10=50). 
 
-→ Insert “Calculating Tribute Payments” table from summer poster? ←
+!{Calculating Tribute Payments}[CalculatingTributePayments.png]
 
+
+The following is a guide to reading each of the first eight years. I have noted exceptions to the general format of the list and changes in recording practices. 
 
 Year 1 was inscribed at the top of Stele 1's obverse face. Its header is four lines long. The list contains six columns on the obverse face with 24 rows in each (the numbering for the columns starts at line 5 to account for the header). In each column, the place name is inscribed first on the left side of the column. The corresponding payment amount is inscribed on the right side of the same column. The place name and its payment amount are consistently separated in Year 1 by a punctuation mark that is two vertically stacked dots. 
 
@@ -24,13 +27,13 @@ In Year 1 there are multiple instances (Column II lines 25-26, Column IV lines 4
 
 Year 2 is the only other list inscribed across two faces of Stele 1. But unlike Year 1 which has a postscript on its right lateral face, Year 2's right lateral face is a continuation of its list and contains columns VIII, IX, and X. Its header is one line long and each column has 17 entries. Column X is shorter with only 10 entries and there is preserved blank space beneath the tenth entry on stone 11 before the start of year 8. Three entries in Column X (lines 5, 6, and 11) appear to be abbreviated because the stonecutter ran out of room on the right lateral face. Although since there is plenty of spare space at the end of Column X, the stonecutter seemingly could have used two lines to write the names instead of abbreviating them. However, I think the answer must be that the convention changed and it was no longer for the stonecutter to allow a single place name to run over onto a second line when it was not a compound name.  
 
-In Year 2 Column VI, line 14 the amount reads 5 drachmae, 2 drachmae, and 3 obols equalling 45 obols. But the ATL editors believe that the stonecutter mistakenly inscribed 3 obols instead of 1 drachma and two obols, which would equal 50 obols. I have chosen to leave the character as it appears on the stone and in their drawings, as an obol.   
+In Year 2 Column VI, line 14 the amount reads 5 drachmae, 2 drachmae, and 3 obols equalling 45 obols. But the ATL editors believe that the stonecutter mistakenly inscribed 3 obols instead of 1 drachma and two obols, which would equal 50 obols. I have chosen to leave the character as it appears on the stone and in their drawings: as an obol.   
 
-Year 3 is inscribed on the obverse face only. It has a single line header and 5 columns each with 30 entries. In Year 3, Column II, lines 8 & 9 there is one amount in the middle of the two lines. Two places (Skione and Therambos) pay together, so instead of listing the payment on the first line and leaving the second line blank, the stonecutter chose to inscribe the amount between the two lines. In Year 2 these same two places also pay together, but instead of the amount straddling two lines, it is listed on the first line with Skione and the second line is left blank. 
+Year 3 is inscribed on the obverse face only. It has a single line header and 5 columns each with 30 entries. In Year 3, Column II, lines 8 & 9 there is one amount in the middle of the two lines. Two places (Skione and Therambos) pay together, so instead of listing the payment on the first line and leaving the second line blank, the stonecutter chose to inscribe the amount between the two lines. In Year 2 these same two places also pay together, but instead of the amount straddling two lines, it is listed on the first line with Skione and the second line is left blank. In Column III, lines 2-3 both the place name and the payment amount are split across the two lines. It is not uncommon for a long place name to be split across two lines, but it is rare for a payment amount to do so. 
 
-Year 4 is inscribed on the obverse face only, and each of its five columns has 32 lines. There is no bottom of a column preserved, so the list was most likely longer. 
+Year 4 is inscribed on the obverse face only, and each of its five columns has 32 lines. None of the columns has its bottom preserved, so the list was most likely longer than 32 lines per column. 
 
-Year 5 is also inscribed on the obverse face only, and each of its five columns has 40 lines. 
+Year 5 is inscribed on the obverse face only, and each of its five columns has 41 lines. Column II, lines 13-17 form a group payment. 
 
 Year 6 is missing; I do not mean that it is not extant, but that it was never inscribed in the first place. The end of Year 5 clearly and the heading of Year 7 are both extant enough to show definitively that there was not another list between them. 
 
