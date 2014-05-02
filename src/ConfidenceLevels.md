@@ -7,14 +7,24 @@ All three levels may contain partially restored readings. Therefore, the confide
 
 *Place Names*
 
-These are not based on historical context, geography, or patterns within the text. Rather, they are based on the visual epigraphic evidence: the clarity of the letters.  
+These are not based on historical context, geography, or patterns within the text. Restorations supplied by the ATL editors are often based on such factors, but these are separate from the confidence levels. I have based the confidence level classifications on the visual epigraphic evidence: the clarity of the letters. Arguments could be made on these factors later, but I considered it most important to first establish epigraphic confidence levels. The only factor I have considered other than the letter forms is the place name's uniqueness in the corpus of place names. So if there are only a few leters extant in an entry, but the order and combination of letters is so unique that it appears in no other name in the corpus of places, than that name would be classified as extant. This decision entails the implicit assumption that there is at least one extant record for every polis that ever paid tribute. While arguably flawed, I think this approach is necessary in order avoid classifying a place name as confident or restored when it is not necessary to do so. 
 
 The highest level is "extant": the place name is completely visible on the stone or there is no other possible reading. A few letters may be unclear or missing (e.g. the common masculine ending ΟΙ) but there is virtually no doubt as to the reading. 
 
+!{Year 7, Column 2, line 31}[urn:cite:shotimg:atl.DSC_5238@0.5821,0.489,0.3349,0.0311]
+For this entry, "ΦΑΣΕΛ" is visible and "ΙΤΑΙ" is restored. Since only the ending of the name is missing, there is no doubt as to the identity of this place name and therefore it is classified as extant. 
+
+
 The middle level is "confident": there has been a significant restoration, but there is good reason to believe it is correct. There may be more than one potential reading. 
+
+!{Year 7,Column 3, line 3}[urn:cite:shotimg:atl.DSC_5237@0.4043,0.5031,0.2794,0.03]
+The first three letters,"ΛΑΜ," of this place are clearly preserved and the rest,"ΦΣΑΚΕΝΟΙ," is restored. However since there are limited options for the three preserved letters it is considered a confident reading.
 
 The lowest level is "restored": the reading has been either completely restored by the ATL editors or there is so little extant epigraphic evidence (e.g. one letter) that there are several possible readings. 
 
+!{Year 5, Column 3, line 35}[urn:cite:shotimg:atl.DSC_5236@0.665,0.4666,0.1515,0.0303]
+
+Here only "ΤΕ" is preserved on the stone and "ΡΜΕΡΕΣ" is restored. Since there are several different options for places that start with these two letters (e.g. ΤΕΛΑΝΔΡΙΟΙ, ΤΕΝΙΟΙ) there are too many possible restorations for it to be a confident reading. 
 
 N.B. When there are only a few letters preserved in a line and no restoration has been attempted by the ATL editors, then it has not been tagged as a specific place and therefore there will be no confidence level applied to it. 
 
