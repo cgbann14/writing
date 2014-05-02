@@ -44,7 +44,7 @@ There is only room for one character in the space between the two stones, and it
 
 The middle level is "confident": there has been a significant restoration, but there is good reason to believe it is correct. There may be more than one potential reading. When there is blank space on the left side of a line and there may have been characters preceding the extant one(s), making the amount much higher. In these cases, maximum and minimum values will be assigned. The minimum is the total amount of the numbers extant on the stone because the payment could obviously not have been any lower than this. The maximum is the largest payment amount possible considering which characters can come before/after those extant. When there is a blank gap where characters most likely would have been, the size of the gap is taken into account. If there is only enough space for two characters then the maximum amount cannot be a number that would require three more characters.  
 
-An eta (should I call it this or "100 talents"?) is clearly legible on the stone, but there is missing space to its left that may have contained a larger number (such as a chi/ 1,000 talents). This would be an appropriate instance to use min/max values. 
+An eta (representing 100 drachmae) is clearly legible on the stone, but there is missing space to its left that may have contained a larger number (such as a chi/ 1,000 drachmae). This would be an appropriate instance to use min/max values. 
 !{Year 5, Column 3, line 31}[urn:cite:shotimg:atl.DSC_5236@0.6071,0.3764,0.1239,0.0318]
 
 
