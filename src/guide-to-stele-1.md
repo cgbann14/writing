@@ -9,12 +9,12 @@ The inscriptions  use the stoichedon method. This term is derived from the adver
 
 The lists use the Attic alphabet which is slightly different from the alphabet readers of literary Ancient Greek are familiar with. No accents or breath marks are used. The table below allows the reader to convert the text to normalized literary Greek.
 
-!{Transliteration Equivalences}[TransliterationEquivalences.png]
+![Transliteration Equivalences][images/TransliterationEquivalences.png]
 
 
 The payments are inscribed using the Attic acrophonic numeral system. The character used to represent a number is determined by the first letter of the word for that letter (e.g. Π represents 5 drachmae because the word for five is πέντε). Unlike the Roman numeral system, the acrophonic system is only additive (e.g. 9 drachmae is ΠΙΙΙΙ not ΙΔ). The number five in increasing orders of magnitude are represented with composites of pi (e.g. 50 is written as a delta nesting within a pi since 5X10=50). 
 
-!{Calculating Tribute Payments}[CalculatingTributePayments.png]
+![Calculating Tribute Payments][images/CalculatingTributePayments.png]
 
 
 The following is a guide to reading each of the first eight years. I have noted exceptions to the general format of the list and changes in recording practices. 
