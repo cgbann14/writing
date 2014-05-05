@@ -1,57 +1,19 @@
-What are ATL?
-Why important?
-Why need new edition? 
-brief discussion of ATL print 
+﻿
 
+A naval alliance was formed in 478/7 B.C. in response to Persia's remarkably failed attempts to invade Greece in 490 and 480 B.C. Member states either contributed triremes (specialized war ships) or φόρος/phoros (tribute) to the alliance. The league's treasury was originally kept on the island of Delos, which is where the alliance's modern name, the Delian League, derives from. After the treasury was moved to Athens (although not necessarily starting the same year), the Athenians started keeping records of the ἀπαρχαί/aparchai (“first-fruits”), 1/60th of total tribute paid, which was given to Athena. The Athenian Tribute Quota Lists record the aparchai contributed by each member state. 
 
- 	 	 	
-Athenian Tribute Lists that are incredibly complex and fragmentary primary source documents from the fifth century BC
-Title: Reassesment- looking at primary source evidence- stones 
-Before explaining why my editorial method and analyses--what I’ve done-- matter 
-First:  historical background to convince you why these inscriptions matter
+In order to reassess Athenian imperial tribute, I went back to the primary evidence: the Athenian Tribute Quota Lists. These are incredibly complex and fragmentary inscriptions from the fifth century B.C. Stele 1 is by far the largest block of marble ever used for an inscription in Athens. They were displayed publicly on the Acropolis and were meant to be permanent records. Today the inscriptions are housed in the Epigraphic Museum in Athens. The stelae stand today reconstructed with plaster from hundreds of stone fragments. My research has focused on the first eight years of the lists, which make up the entire front face of this stele and the right lateral face of Stele 1 and is some of the most extensively preserved material. 
 
-## Persia and Greece ##
-Map of Persian Empire (500 BCE) 
-**Point out how tiny Greece is***
-***Point out Phaselis*** example used throughout presentation 
-490&480- Persia tried and remarkably failed to invade Greece
-In 478/7 B.C. a naval alliance was formed in order to be prepared for future Persian attacks 
+Since the evidence for the tribute is fragmentary by nature, it is necessary for all data to be explicit. Since there are so many lacunae, partial letters, and unclear readings, the ability to refer to the visual evidence of the stones is essential. 
+There is a tendency for discussions of the quota lists to separate questions concerning the implications of the tribute's role in the “Athenian Empire” from an examination of the visual evidence for tribute.In this way restorations are based off of other restorations, and reasoning can quickly become circular. This is mostly because the Athenian Tribute Quota Lists are extraordinarily difficult to work with.  
 
-## Delian League ##
-Delos picture: the league’s treasury was originally kept on the island of Delos 
-Modern name
-sacred to the god Apollo & a neutral site
-Member states/allies either contributed triremes (specialized war ships) or tribute (cash)
-##Tribute##
-each state paid annually
-phoros= term for cash contributions
-Coin: tribute was most commonly paid in silver coins
-the vast majority of states contributed money because triremes were very expensive and difficult to produce
- different states paid different amounts depending on their size and resources
-##Acropolis ##
-At a later date the treasury was moved to the Acropolis in Athens- the most prominent part in the city, sacred to Athena (Athens’ namesake goddess)- no longer a neutral site
-##Parthenon##
-after move, Athenians kept records of the quota for Athena
-stelae displayed publicly
+Not only are the quota lists so difficult to work with because they are so fragmentary, but they are also multidimensional. The data include chronology, geography, numerical figures, group payments, multiple payments by same state, late and  partial payments etc. The Athenian Tribute Quota Lists are so complex and so crucial to our understanding of the fifth century B.C. that they demanded a new approach. This is why I decided to go back to the primary source evidence for the inscriptions and study the stones themselves. When I was studying abroad in Athens, I got permission to study and photograph the inscriptions at the Epigraphic Museum. My original photos are the only readily available photos of the material and I created my editions of the first eight years by editing the source text directly from this primary photographic evidence.
 
-## The Athenian Tribute Lists##
-ATL Overview picture
-by far the largest block of marble ever used for an inscription in Athens--important to Athenians--send a messaage 
-displayed publicly and meant to be permanent records
-quota lists: απαρχαι (“first-fruits”) given annually as offerings to Athena- 1/60th of total tribute
-Athena is protecting the League’s funds, so part of the money is set aside for her 
-today the inscriptions are kept in the Epigraphic Museum in Athens- badly damaged, majority of the stelae you see are reconstructed plaster- evidence is fragmentary by nature hundreds of fragments 
+Since the data are so fragmentary and multidimensional, they cannot be represented as well in a print edition as in a digital edition. In 1949 the inscriptions were edited and published in four volumes called the *The Athenian Tribute Lists* by Benjamin Dean Meritt, H. T. Wade-Gery,  and Malcolm Francis McGregor. These books have been the basis for all scholarship on the Athenian Tribute Quota Lists since. However, the print medium has some limitations. Apart from an occasional photograph, the edited text is completely separate from the visual evidence. A book is not especially conducive to coordinating photographs with edited text. This forces the reader to put absolute trust in the editors' reading of the stone. Restorations are printed alongside extant text, and although differentiated, cannot be disentangled from the extant text. 
 
-## Complex evidence demands new approaches ##
-go back to primary source evidence & study the stones themselves
-NOT ONLY: fragmentary
-BUT ALSO: multidimensional- chronology, geography, numerical figures, group payments, multiple payments by same state, late & partial payments etc.
+The capacity of a digital edition has solved these issues. All edited text can be viewed directly alongside the photos, from which that edited text was made. And since the digital text encodes which readings are restored, a reader can choose to hide or view restorations according to her needs. This allows new interpretations to be formed based on the primary evidence rather than off of previous editorial choices (although it does not preclude those types of interpretations either). Just as valuable are the ways in which a digital edition can visualize the data for innovative analyses. For example, seeing a list of payment records in sequential order can lead to an understanding of patterns from year to year. Seeing this sequence projected on a map can lead to further insight about any geographical patterns. 
 
-##Stele 1 & Me## 
-When I was studying abroad in Athens, I got permission to study and photograph the inscriptions. 
-My original photography- only readily available photos of the material
-edit the source text directly from the primary photographic evidence
-size of the inscriptions- they are inscribed on all four sides- I’ve edited the entire front face of this stele & the right lateral face--first 8 years= most extensively preserved
-can view them alongside one another
-this has never been possible in a print edition 
+ A digital edition also facilitates the study of the inscriptions. If you are reading the edition of Year 1 in Volume II of The Athenian Tribute Lists and want to look up a place name, you must look it up in the gazetteer in Volume I. But in the digital edition, the map of member states and the edited text are linked, so that going from one to another only takes one click. While this may sound trivial, when working with data sets this large and complex, ease of access to the information is key. 
 
+My work would not have been possible without the work of the editors of the *The Athenian Tribute Lists*. And although I have used and have the utmost respect for their work, I have been determined not to blindly yield to their authority. 
+For example, I have chosen to refer to each document as “Year 1” instead of their “454 B.C.” This is both to avoid problems with chronology and to be consistent with the way the text refers to itself. The only exception to putting complete faith in their authority has been the arrangement of the stones in the stelae, which I used as the starting point for my research. I have necessarily had to take for granted the arrangement of the stone fragments on the stelae in the Epigraphic Museum. I have set out to reimagine the study of the Athenian Tribute Quota Lists from the ground up, but a complete and even more comprehensive approach would require taking apart the reconstruction of Stele 1 in the Epigraphic Museum and examining the physical relationships of the stones to one another. 
