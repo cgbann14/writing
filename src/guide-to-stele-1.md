@@ -18,7 +18,7 @@ The lists use the Attic alphabet which is slightly different from the alphabet r
 ![Transliteration Equivalences][img100]
 ++}
 
-{++The payments are inscribed using the Attic acrophonic numeral system. The character used to represent a number is determined by the first letter of the word for that letter (e.g. Π represents 5 drachmae because the word for five is πέντε). Unlike the Roman numeral system, the acrophonic system is only additive (e.g. 9 drachmae is ΠΙΙΙΙ not ΙΔ). The number five in increasing orders of magnitude are represented with composites of pi (e.g. 50 is written as a delta nesting within a pi since 5X10=50). 
+{++The payments are recorded using the Attic acrophonic numeral system. The character used to represent a number is determined by the first letter of the word for that letter (e.g. Π represents 5 drachmae because the word for five is πέντε). Unlike the Roman numeral system, the acrophonic system is only additive (e.g. 9 drachmae is ΠΙΙΙΙ not ΙΔ). The number five in increasing orders of magnitude are represented with composites of pi (e.g. 50 is written as a delta nesting within a pi since 5X10=50). 
 
 ![Calculating Tribute Payments][img101]
 
@@ -99,7 +99,7 @@ There is another oddity in Year 7, Column IV, line 2. The last 4 obols of the pa
 !{Year 7, Column IV, line 2}[Lampsakos]
 
 
-**Year 8** is inscribed on the right lateral face only. It has {~~2~>two~~} columns with 113 lines each, but the bottom of neither column is preserved. Its header is four lines long. Since the right lateral face is much narrower than the obverse face, the header and columns are longer than those years inscribed on the obverse face. Year 8 begins by repeating the names of Year 7 in a similar order. In Column 1, lines 58-64, there is a large group payment by six members of the Erythrai syntely. On line 60, there is a sentence that extends across Column I into Column II. I have edited the entire line in Column I because that is where it belongs semantically, and have put a {++TEI ++}`<gap>` in Column II to show that there is not another entry in that space. {>>SHould we reveiw this markup?<<}
+**Year 8** is inscribed on the right lateral face only. It has {~~2~>two~~} columns with 113 {>>preserved? <<}lines each, but the bottom of neither column is preserved. Its header is four lines long. Since the right lateral face is much narrower than the obverse face, the header and columns are longer than those years inscribed on the obverse face. Year 8 begins by repeating the names of Year 7 in a similar order. In Column 1, lines 58-64, there is a large group payment by six members of the Erythrai syntely. On line 60, there is a sentence that extends across Column I into Column II. I have edited the entire line in Column I because that is where it belongs semantically, and have put a {++TEI ++}`<gap>` in Column II to show that there is not another entry in that space. {>>SHould we reveiw this markup?<<}
  This large group entry has a unique organization. The stonecutter inscribed at least one character on each line of the group entry, so that the entire amount is  distributed across seven lines. This is the only instance in the first eight years of the quota lists where a group payment was inscribed in this way.
 
 !{Year 8, Column 1, lines [ErythraiSentence]
