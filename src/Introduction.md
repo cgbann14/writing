@@ -1,4 +1,7 @@
-﻿
+
+# Introduction #
+
+
 
 A naval alliance was formed in 478/7 B.C. in response to Persia's remarkably failed attempts to invade Greece in 490 and 480 B.C. Member states either contributed triremes (specialized war ships) or φόρος/phoros (tribute) to the alliance. The league's treasury was originally kept on the island of Delos, which is where the alliance's modern name, the Delian League, derives from. After the treasury was moved to Athens (although not necessarily starting the same year), the Athenians started keeping records of the ἀπαρχαί/aparchai (“first-fruits”), 1/60th of total tribute paid, which was given to Athena. The Athenian Tribute Quota Lists record the aparchai contributed by each member state. 
 
