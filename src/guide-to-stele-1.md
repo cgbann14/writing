@@ -1,7 +1,7 @@
-﻿#Guide to Reading the First Eight Years of the Quota Lists#
+#Guide to Reading the First Eight Years of the Quota Lists#
 
 
-The Athenian Tribute Quota Lists recorded the aparchai on four stelae for the 49(???ATL number) years of tribute collection. I edited the first eight years of the lists, which are inscribed on Stele 1. Years 1-7 are inscribed on the obverse face and Year 8 is inscribed on the right lateral face. 
+The Athenian Tribute Quota Lists recorded the aparchai on four stelae for the 49{>>(???ATL number)<<} years of tribute collection. I edited the first eight years of the lists, which are inscribed on Stele 1. Years 1-7 are inscribed on the obverse face and Year 8 is inscribed on the right lateral face. 
 
 Each year should be understood as an individual document. Stele 1 itself is not a single document, since it was inscribed on an annual basis over the course of many years. There is a heading for each document that gives the relative number of the year (i.e.: first, second) and the name of the secretary (Hellenotamiai). While the relative year numbers do not correlate to the beginning of tribute collection at Delos, there is a sense that the quota lists were the beginning of something (i.e. the first time the league treasury was housed in Athens, the first time aparchai was given to Athena). Underneath the header there are multiple columns listing the aparchai payment amount and the name of the place that contributed. The place name is usually, but not always, written as the nominative plural name for its people.
 
@@ -99,13 +99,13 @@ The first evidence for partial payments and arrears occurs in Year 8. Column 5 i
 [2linepayment]: urn:cite:shotimg:atl.DSC_5232@0.4115,0.262,0.0935,0.0293
 
 
-[ErythraiGroup]:urn:cite:shotimg:atl.DSC_5239@0.3329,0.5235,0.601,0.1594
+[ErythraiGroup]: urn:cite:shotimg:atl.DSC_5239@0.3329,0.5235,0.601,0.1594
 
 
 [Lampsakos]: urn:cite:shotimg:atl.DSC_5237@0.3666,0.5043,0.3172,0.1082
 
 
-[ErythraiSentence]urn:cite:shotimg:atl.DSC_2902@0.2441,0.6055,0.2712,0.0997
+[ErythraiSentence]: urn:cite:shotimg:atl.DSC_2902@0.2441,0.6055,0.2712,0.0997
 
 
-[doubleByzantion]urn:cite:shotimg:atl.DSC_2901@0.2589,0.4415,0.287,0.0684
+[doubleByzantion]: urn:cite:shotimg:atl.DSC_2901@0.2589,0.4415,0.287,0.0684
