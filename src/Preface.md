@@ -1,8 +1,6 @@
 # Preface #
 
-This paper is part of a larger project  conducted through the Mellon Summer Research Program and the College Honors Program at the College of the Holy Cross.
+#Preface#
 
-{>>Add here the list of other components: archive of material you have edited, software for viewing the material, and a virtual machine for running the viewing software interactively. <<}
+This paper is part of a larger project conducted through the Mellon Summer Research Program and the College Honors Program at the College of the Holy Cross. The components of this project are the photos of the inscriptions (taken at the Epigraphic Museum in Athens), the diplomatic and normalized XML editions for each year (the code was written using Oxygen XML editor), and the writing printed here.  The edition referred to throughout this paper is not printed here, since it is a digital edition. The images in Chapter 5: Applications and Visualizations are screenshots of the digital edition. All work for the project is publicly available online at http://phoros.github.io/ which is a github repository that allows people to collaborate on open source projects. This address has links to the software for viewing the material and a virtual machine for running the viewing software interactively. All the components are part of the digital version of this project filed with Crossworks. This paper is meant as a guide to understanding the Athenian Tribute Quota Lists, the principles I have defined for work on this edition, and a guide to the future study of Athenian imperial tribute. 
 
-
-{>>Add note here that all components are part of the digital version of this project filed with Crossworks;  that all components are available from github;  and that all material is linked from the project's public github page http://phoros.github.io/ <<}
