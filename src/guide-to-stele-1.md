@@ -4,28 +4,18 @@
 
 #Guide to Reading the First Eight Years of the Quota Lists#
 
-The Athenian Tribute Quota Lists recorded the *aparchai* on four stelae for the 49{>>(???ATL number)<<} years of tribute collection. I edited the first eight years of the lists, which are inscribed on Stele 1. Years 1-7 are inscribed on the obverse face and Year 8 is inscribed on the right lateral face. 
+The Athenian Tribute Quota Lists recorded the *aparchai* on four stelae for the 49{>>(???ATL number)<<} years of tribute collection. I edited the first eight years of the lists, which are inscribed on Stele 1. Years 1-2 are inscribed on both the obcerse and the lateral faces, Years 3-7 are inscribed on the obverse face, and Year 8 is inscribed on the right lateral face. 
 
 Each year should be understood as an individual document. Stele 1 itself is not a single document, since it was inscribed on an annual basis over the course of many years. There is a heading for each document that gives the relative number of the year (i.e.: first, second) and the name of the secretary (Hellenotamiai).{>>Add note to chronology appendix:  why this cannot be secry of the Boule<<} While the relative year numbers can not correlate to the beginning of tribute collection at Delos,  the headings explicitly indicate that the quota lists were the beginning of *something* (e.g, the first time the league treasury was housed in Athens, or the first time *aparchai* were given to Athena). Underneath the header there are multiple columns listing the *aparchai* payment amount and the name of the place that contributed. The place name is usually, but not always, written as the nominative plural name for its people.
 
 
-## Character set ##
 
-
-
-The lists use the Attic alphabet which is slightly different from the alphabet readers of literary Ancient Greek are familiar with. No accents or breath marks are used. The table below allows the reader to convert the text to normalized literary Greek.
-
-![Transliteration Equivalences][img100]
-
-
-The payments are recorded using the Attic acrophonic numeral system. The character used to represent a number is determined by the first letter of the word for that letter (e.g. Π represents 5 drachmae because the word for five is πέντε). Unlike the Roman numeral system, the acrophonic system is only additive (e.g. 9 drachmae is ΠΙΙΙΙ not ΙΔ). The number five in increasing orders of magnitude are represented with composites of pi (e.g. 50 is written as a delta nesting within a pi since 5X10=50). 
 
 
 ![Calculating Tribute Payments][img101]
 
 [img101]: images/CalculatingTributePayments.png
 
-[img100]: images/TransliterationEquivalences.png
 
 
 
