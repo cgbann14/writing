@@ -2,7 +2,7 @@
 
 
 
-This paper is one part of a larger project conducted through the Mellon Summer Research Program and the College Honors Program at the College of the Holy Cross. The components of this project are{++:++} 
+This paper is one part of a larger project conducted through the Mellon Summer Research Program and the College Honors Program at the College of the Holy Cross. The components of this project are: 
 
 - an archive of original photography the photos of the inscriptions (taken at the Epigraphic Museum in Athens)
 - an archive TEI-conformant XML editions, including both diplomatic and normalized  texts, for each year, together with delimited-text data files for related information (e.g., geographic information about locations referred to in the texts)
