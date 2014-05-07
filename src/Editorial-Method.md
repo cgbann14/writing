@@ -9,23 +9,38 @@ I relied almost exclusively on the drawings instead of the photographs for editi
 ## Goals ##
 
 
-The goal of my edition is to accurately and completely record what is on the stone. In order to do this, I first transcribed the text from my photographs (or in the case of Years 1-2, the ATL drawings). I identified which letters are extant and which are unclear and tag them using TEI markup as documented below. I then identified the semantic elements of the text, labeling whether a group of characters is a place name, a payment amount, or a header. After the editions were complete I assigned each place name and each payment a confidence level, which is recorded separate from the edited text. When I was not sure what confidence level to assign based on the TEI markup, I  re-examined the visual evidence in order to make my decision. 
+The goal of my diplomatic edition is to accurately and completely record what is on the stone. The stelae are similar to classical stoichedon inscriptions, which have no spaces between words and are organized so that each letter takes up an equal amont of space.  In order to reflect this, my diplomatic edition also contains no spaces between words and treats letters the same way. The first step in creating the edition was transcribing the text from my photographs (or in the case of Years 1-2, the ATL drawings). Then I identified which letters are extant and which are unclear and tag them using TEI markup as documented below. Lastly, I identified the semantic elements of the text, labeling whether a group of characters is a place name, a payment amount, or a header. 
 
-The stelae are similarly to claassical stoichedon inscriptions, with no spaces between words, and each letter taking up an equal amont of space.  My diplomatic edition similarly contains no spaces between words and treats letter in the same way. 
+I also created a parallel normalized edition for each year. The Attic alphabet used for inscriptions is different than the classical literary alphabet most students of Ancient Greek are familiar and therefore the normalized edition is made acceptable to that audience. I created each normalized edition immediately after creating the diplomatic edition for that year, converting the text from the Attic to literary alphabet. Since transliteration equivalences may require two letters to be put in the place of one or vice versa, the normalized edition cannot stay true to the stoichedon layout. I have removed all stone numbers in the normalized editions in order not to misrepresent transliteration equivalences as characters present on the actual stone. Another benefit of the normalized edition is its compatibility with automated processing, like the Perseus morphological parser. While normalized edition is helpful for ease of reading, the reader concerned with epigraphic certainty should consult the diplomatic edition. 
 
-{>>Expand:  need to say that you are also creating parallel normalized edition!  This is important.  Justify:  accessibility to readers who have some classical Greek but not familiar with Attic alphabet;  also accessibility to automated processing like the Perseus morphological parser that work on literary Greek.<<}
+After both the normalized and diplomatic editions for each year were complete I assigned each place name and each payment a confidence level, which is recorded separately from the edited text. When I was not sure what confidence level to assign based on the TEI markup, I  re-examined the visual evidence in order to make my decision. 
+
 
 ## Character set##
 
+Digital editors need to make decisions about character sets; unlike print editors who need to choose glyphs that look right on paper. I used Unicode, the standard for encoding text, for writing the characters. However, Unicode does not have the Attic alphabet. Therefore I had to come up with the best solution available. I wrote letters using the classical Greek alphabet (Unicode 370) and typed them using the program SophoKeys. But some letters in the Attic alphabet are represented with different glyphs than classical letters (e.g. pi, zeta). This means that some letters will look differently in the edition than they do on the stone. 
 
 
-{>>State explicitly that digital editors need to make editorial decisions about character sets:  this is not a matter of
-getting a glyph that looks right on paper!<<}
+
+"Ancient Greek Numbers" (Unicode 10140)
+
 {>>Need a comment here on what part of Unicode you are using, and how you are mapping the Attic alphabet on to it.
 The transliteration chart you use later on cold perhaps be summarized here.<<}
 
 
-I have used the Greek high-stop (·) to represent the epigraphic punctuation mark that is two or three dots stacked vertically. I chose to use this punctuation instead of a colon (:), even though the visual form of their glyphs is similar, in order to stay within the Greek alphabet and because the high-stop and the epigraphic punctuation mark have the same semantics.++}{>>Identify stacked punct. dots by Unicode number.<<}
+
+The lists use the Attic alphabet which is slightly different from the alphabet readers of literary Ancient Greek are familiar with. No accents or breath marks are used. The table below allows the reader to convert the text to literary Greek and is what I used to convert the characters in the diplomatic edition to those in the normalized edition.
+
+![Transliteration Equivalences][img100]
+
+[img100]: images/TransliterationEquivalences.png
+
+?????The payments are recorded using the Attic acrophonic numeral system. The character used to represent a number is determined by the first letter of the word for that letter (e.g. Π represents 5 drachmae because the word for five is πέντε). Unlike the Roman numeral system, the acrophonic system is only additive (e.g. 9 drachmae is ΠΙΙΙΙ not ΙΔ). The number five in increasing orders of magnitude are represented with composites of pi (e.g. 50 is written as a delta nesting within a pi since 5X10=50). 
+
+
+
+
+I have used the Greek high-stop (·) to represent the epigraphic punctuation mark that is two or three dots stacked vertically (Unicode 387). I chose to use this punctuation instead of a colon (:), even though the visual form of their glyphs is similar, in order to stay within the Greek alphabet and because the high-stop and the epigraphic punctuation mark have the same semantics.
 
 
 ## TEI markup ##
@@ -45,7 +60,6 @@ Where the ATL editors have used the notation ( ) to mark “letters added by way
 I have assigned a numerical identifier to each place name. When there are variant spellings of a place name, they are all given the same identifier since they refer to the same place. 
 
 There are a few editorial concerns specific to the normalized version. I have added accents, breath marks, spaces between words, and made changes from the epigraphic alphabet to its corresponding literary equivalences. (N.B. A table of these transliteration equivalences is included in Guide to Reading the First Eight Years of the Quota Lists.)
-
-Since transliteration equivalences may require two letters to be put in the place of one or vice versa, the normalized edition cannot stay true to the stoichedon layout. I have removed all stone numbers in the normalized editions in order not to misrepresent transliteration equivalences as characters present on the actual stone. When two letters in the diplomatic edition would form one in the normalized edition (e.g. ΦΣ to ψ) and one of the two letters is completely missing, the normalized letter is marked as `<unclear>`. When one or both letters are partially missing but are semantically clear, the normalized letter is marked as clear. 
+ When two letters in the diplomatic edition would form one in the normalized edition (e.g. ΦΣ to ψ) and one of the two letters is completely missing, the normalized letter is marked as `<unclear>`. When one or both letters are partially missing but are semantically clear, the normalized letter is marked as clear. 
 
 
