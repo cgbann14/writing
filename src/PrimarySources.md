@@ -5,12 +5,12 @@ The problem of how to edit editions of literary texts is much better understood 
 
 
 
-#Old Oligarch/Pseudo-Xenophon's Constitution of the Athenians#
+##Old Oligarch/Pseudo-Xenophon's Constitution of the Athenians##
 
 The author is against democracy, but gives an explanation of how it functions and what makes it successful in Athens. Athens' navy and tribute are listed as important parts of its democracy's success. This text is essential for understanding the regularity of tribute reassessment. The Old Oligarch makes a big distinction made between things done every year and things done from time to time. The author first describes duties that the Athenian government constantly has to deal with as they arise: πολλὰ δὲ περὶ τῶν κατὰ πόλιν ἀεὶ γιγνομένων (3.2). Among these duties is the receipt of tribute: φόρον δέξασθαι (3.2). The discussion then shifts to annual duties such as the appointment of trierarchs. This section ends with the statement: ταῦτα μὲν οὖν ὅσα ἔτη (3.5). The sentence immediately following this starts with the phrase διὰ χρόνου, "at times," which sharply contrasts with those things done every year. This includes unexpected issues(ἐξαπιναῖον ἀδίκημα γίγνηται) such as instances of hubris. The author then says he has skipped over many things, but he has discussed the most important except for the assessment of tribute (αἱ τάξεις τοῦ φόρου). This still seems to be in the category of things that happen διὰ χρόνου. Therefore, when he describes assessment as occurring τοῦτο δὲ γιγνεται ὡς τὰ πολλὰ δι’ ἔτους πέμπτου, the ὡς τὰ πολλὰ has more force. If reassessment had consistently occurred on a quadrennial basis, it would fit better with the structure of the Old Oligarch's essay to mention it along with Athens' annual duties rather than with its occasional duties. I think the theory,  set out in *The Athenian Tribute Lists* and *The Athenian Empire*, that there was a reassessment every four years at the Great Panathenaea is difficult to reconcile with this passage expecially since we only have evidence for one comprehensive reassessment: the Reassessment Decree. The digital edition could be utilized to re-examine the question of reassessment in a more efficient way. 
 
 
-# Thucydides #
+## Thucydides ##
 
 Thucydides gives us a narrative of the Pentekontaeteia, the fifty year period between the Persian Wars and the Peloponnesian War, when tribute was collected. The vocabulary he uses is important to our understanding of tribute. The word φόρος is used in the singular to mean the whole tribute for that year while the plural is used to mean discrete payments made by individual allies. The verb τάσσω is used to describe the assessment of tribute. 
 
@@ -24,7 +24,7 @@ The word ἐτάξαντο here can be translated as "arranged" and it has the s
 The Thasian episode described in 1.101.3 could shed light on instances of multiple entries for the same year that can be explained by late and partial payments. Thasos did not receive aid from Sparta due to an earthquake and Helot revolt, so they surrendered to Athens under these terms: ναῦς παραδόντες, χρήματά τε ὅσα ἔδει ἀποδοῦναι αὐτίκα ταξάμενοι καὶ τὸ λοιπὸν φέρειν. While this incident dates to 466 B.C. and therefore predates the Athenian Tribute Quota Lists, it could still give us an idea of under what terms different poleis would contribute payments in installments (i.e., paying money now and bringing the rest later).  
 
 
-#Plutarch's Life of Aristides#
+##Plutarch's *Life of Aristides*##
 
 Plutarch tells us that Aristides was chosen by the Greeks to assess the amount of tribute they should pay since he was considered just. Plutarch and Thucydides both use the same verb to refer to assessment: τάσσω (the aorist passive infinitive ταχθῆναι is used in 24.1). Aristides determined the amounts by each ally's power (δύναμιν) and ability to pay. It could be worthwhile to do an analysis for the places in the Athenian Tribute Quota Lists to see how strong the correlation between tribute payments and the wealth of allies is. In 25.2 Aristides is asked his opinion on the transfer of the league treasury from Delos to Athens. He answers that it is unjust but that it is advantageous for Athens. 
 
