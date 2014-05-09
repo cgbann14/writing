@@ -1,5 +1,5 @@
 Preface.md=Preface
-TableOfContents.md=Table of contents
+ShortTitles.md=Works cited by short title
 Introduction.md=Introduction
 Editorial-Method.md=Editorial method
 guide-to-stele-1.md=Guide to reading stele 1
@@ -8,5 +8,5 @@ Visualizations.md=Visualizations
 Conclusion.md=Conclusions
 PrimarySources.md=Important primary sources
 Chronology.md=Chronological questions
-TreasuryChronology.md=Chronology of the transfer of the League Treasury to Athens
-AristidesChronology.md=Chronology of the death of Aristides
+Epigraph.md=Epigraph
+
