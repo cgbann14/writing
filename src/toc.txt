@@ -9,4 +9,4 @@ Conclusion.md=Conclusions
 PrimarySources.md=Important primary sources
 Chronology.md=Chronological questions
 Epigraph.md=Epigraph
-
+SourcesUsed.md=Sources consulted
