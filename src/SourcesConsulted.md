@@ -1,4 +1,6 @@
 Primary Sources
+
+
 Kaibel, Georg, J. Albert Lebegue, and Al N. Oikonomidēs. Inscriptiones Graecae. The Scholar's reference ed. Chicago: Ares, 1978; 1890. 
 
 Full text of Greek Inscriptions. In addition to the tribute lists, the following inscriptions are essential for a study of the tribute system:
