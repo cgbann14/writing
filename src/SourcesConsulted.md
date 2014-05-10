@@ -54,6 +54,10 @@ Meritt, Benjamin Dean. Athenian Financial Documents of the Fifth Century. Univer
 
 Samons, Loren J. Empire of the Owl: Athenian Imperial Finance. Heft 142 Vol. Stuttgart: Steiner, 2000. Historia : Zeitschrift Für Alte Geschichte: Einzelschriften.
 
+Stroud, Ronald. "The Athenian Empire On Stone." David M. Lewis Memorial Lecture. Oxford. 2006.
+
+Tracy, Stephen V. "The Wrongful Execution of the Hellênotamiai (Antiphon 5.69–71) and the Lapis Primus." Classical Philology 109.1 (2014). 
+
 Wade-Gery, H.T., and Benjamin D. Meritt. "Athenian Resources in 449 and 431 B.C." Hesperia 26 (1957): 163-88. Print. 
 
 Woodhead, A.G. "The Institution of the Hellenotamiae." Journal of Hellenic Studies 79 (1959): 149-52. Print. 
