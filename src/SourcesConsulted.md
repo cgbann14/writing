@@ -56,10 +56,7 @@ Samons, Loren J. Empire of the Owl: Athenian Imperial Finance. Heft 142 Vol. Stu
 
 Wade-Gery, H.T., and Benjamin D. Meritt. "Athenian Resources in 449 and 431 B.C." Hesperia 26 (1957): 163-88. Print. 
 
-A transcription of the “Strasbourg Papyrus Graeca 84: Anonymous Argentinensis (circa 100 A.D.)” with line by line commentary. The author of the papyrus describes what was done with 5,000 talents “which were lying available” and Gery and Meritt suggest that they were carried up to the Acropolis. 
-
 Woodhead, A.G. "The Institution of the Hellenotamiae." Journal of Hellenic Studies 79 (1959): 149-52. Print. 
 
-An argument that the hellenotamiae, “tribute collectors,” were Athenians only since the Delian League’s initial formation and that they were either elected or appointed to office.
 
 
