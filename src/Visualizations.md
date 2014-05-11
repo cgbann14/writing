@@ -58,9 +58,6 @@ The relative amount of a payment is represented by the size of the circle used t
 As in the previous map, the relative amount of a payment is represented by the size of the circle used to plot it on a map. The color of the circle represents its sequence in the list for that year. All circles are on a gradient from green, the first polis listed, to red, the last polis listed. The example shown is selected to display Year 1. 
 
 
-7. Confidence Level Donuts 
-
-{>>Do we have any text here?? Should this section be omitted?<<}
 
 
 
