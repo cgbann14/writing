@@ -1,8 +1,3 @@
----
-nocite:  |
-	 @camp_greek_1974,@eddy_four_1968,@ferguson_treasurers_1932,@french_tribute_1972,@gomme_historical_1956,@lepper_rubrics_1962,@lewis_athenian_1994,@low_athenian_2008,@mattingly_athenian_1996,@mcgregor_attic_1976,@mcgregor_athenian_1967,@mcgregor_athenians_1987,@meiggs_selection_1969,@meiggs_athenian_1972,@meritt_tribute_1972,@meritt_two_1972,@meritt_athenian_1932,@meritt_documents_1937,@meritt_athenian_1939,@meritt_athenian_1934,@pierart_deux_1984,@rhodes_athenian_1985,@samons_empire_2000,@stroud_athenian_2006,@tracy_wrongful_2014,@wade-gery_athenian_1957,@west_tribute_1930,@woodhead_institution_1959
-	 
-...
 
 
 
