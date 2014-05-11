@@ -60,7 +60,7 @@ As in the previous map, the relative amount of a payment is represented by the s
 
 7. Confidence Level Donuts 
 
-
+{>>Do we have any text here?? Should this section be omitted?<<}
 
 
 
