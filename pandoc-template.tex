@@ -145,10 +145,13 @@ $header-includes$
 $endfor$
 
 \begin{document}
-$if(title)$
+$if(title)$ 
 \maketitle
+$if(book-class)$
 \thispagestyle{empty}
 $endif$
+$endif$
+
 $if(abstract)$
 \begin{abstract}
 $abstract$
@@ -161,9 +164,14 @@ $include-before$
 $endfor$
 $if(toc)$
 {
+\thispagestyle{empty}
 \hypersetup{linkcolor=black}
 \setcounter{tocdepth}{$toc-depth$}
+\pagenumbering{gobble}
 \tableofcontents
+$if(book-class)$
+\thispagestyle{empty}
+$endif$
 }
 $endif$
 $body$
