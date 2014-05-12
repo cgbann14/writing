@@ -12,4 +12,7 @@ Put all this on one line (presumably, aliased so you don't have to type all this
     --variable monofont="Courier"  --variable mainfont="Gentium"   --variable sansfont="Seravek" 
     --toc --bibliography="phoros.bib" 
     -o thesis.pdf `cat Books.txt`   
+    --template=pandoc-template.tex
+
+
 
