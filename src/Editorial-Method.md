@@ -1,12 +1,12 @@
 #Editorial Method#
 
 
-## Source material ##
+##Source material##
 
 
 I relied almost exclusively on the drawings instead of the photographs for editing the first two years. Due to the height of Stele 1 and the nature of its reconstruction in the Epigraphic Museum, it was not possible for me to get photos of these years (which are at the topmost part of the obverse face) that were clear and detailed enough to use as the primary source for editing. I worked directly from my photography for Years 3-8.  All characters marked in the TEI XML edition as  `<supplied resp="ATL">` come from ATL Volume II. This tag attributes the responsibility of the restoration to the ATL editors. 
 
-## Goals ##
+##Goals##
 
 
 The goal of my diplomatic edition is to accurately and completely record what is on the stone. The stelae are similar to classical stoichedon inscriptions, which have no spaces between words and are organized so that each letter takes up an equal amont of space.  In order to reflect this, my diplomatic edition also contains no spaces between words and treats letters the same way. The first step in creating the edition was transcribing the text from my photographs (or in the case of Years 1-2, the ATL drawings). Then I identified which letters are extant and which are unclear and tag them using TEI markup as documented below. Lastly, I identified the semantic elements of the text, labeling whether a group of characters is a place name, a payment amount, or a header. 
@@ -16,7 +16,7 @@ I also created a parallel normalized edition for each year. The Attic alphabet u
 After both the normalized and diplomatic editions for each year were complete I assigned each place name and each payment a confidence level, which is recorded separately from the edited text. When I was not sure what confidence level to assign based on the TEI markup, I  re-examined the visual evidence in order to make my decision. 
 
 
-## Character set##
+##Character set##
 
 Digital editors need to make decisions about character sets; unlike print editors who need to choose glyphs that look right on paper. I used Unicode, the standard for encoding text, for writing the characters. However, Unicode does not have the Attic alphabet. Therefore I had to come up with the best solution available. I wrote letters using the classical Greek alphabet (Unicode 370) and typed them using the program SophoKeys. But some letters in the Attic alphabet are represented with different glyphs than classical letters (e.g. pi, zeta). This means that some letters will look differently in the edition than they do on the stone. 
 
@@ -33,19 +33,19 @@ The lists use the Attic alphabet which is slightly different from the alphabet r
 For most numbers, I used those in the "Ancient Greek Numbers" category (Unicode 10140). However, some acrophonic numerals use the same glyph as an Attic letter (e.g. pi=5 drachmae, iota=1 obol) and these do not have separate Unicode characters. So I had to use the Greek letters that are visually the same as the numbers, even though those characters are not semantically numbers. I used the Greek high-stop (·) to represent the epigraphic punctuation mark that is two or three dots stacked vertically (Unicode 387). I chose to use this punctuation instead of a colon (:), even though the visual form of their glyphs is similar, in order to stay within the Greek alphabet and because the high-stop and the epigraphic punctuation mark have the same semantics.
 
 
-## TEI markup ##
+##TEI markup##
 
 I wrote the code for all editions using Extensible Markup Language (XML) which allows the text to be both machine-readable and human-readable. Within the XML I used the Text Encoding Initiative (TEI), which provides a vocabularly for tagging different semantic elements in the text. 
 
 
 
-## Editorial certainty## 
+##Editorial certainty## 
 
 All readings belong to one of three levels of editorial certainty.  When characters are not given a tag, this means they are extant, and the text is unambiguously legible, even if not completely preserved. Therefore, this includes both characters that are completely and unambiguously visible on the stone and characters that may be partially missing but only have one real possibility and are therefore semantically clear. {>>Add one example with illustration?<<}The TEI `<unclear>` tag is used for characters that are not fully extant on the stone and that could, based on their visual form, allow more than one possibile restoration. This includes partial characters and characters that are faded or otherwise damaged. The TEI `<supplied>` tag is used for characters with no traces extant on the stone that have been restored by an editor. Where the ATL editors have made restorations, they are identified with the tag `<supplied resp="ATL">`. Often the ATL editors have a character marked as clear in their edition, but there is no trace of the character visible on the stone in my photograph. In these instances I mark the character as `<supplied resp="ATL">`. These discrepancies may be due to additional wear on the stelae since the ATL's publication in 1949 rather than overly confident editing. Nevertheless, my editorial work is guided by the principle to represent as clear only what remains extant and can be seen on the stone today. I always include their restorations so that,  if it is the case that the characters were visible on the stone sixty years ago, this valuable information will not be lost. 
 
 All extant text is wrapped with a tag '<seg n="1" type="stone">' identifies which stone it is on (the stone identification numbers are from the *ATL* drawings). Supplied text is not with this tag, since it does not exist on a stone. All lost stones are encoded using the identifier `<seg n="1" type="stone" ana="lost">` but are not marked as `<supplied>`. For all lost stones, I have examined the ATL drawings and encoded them using the same conventions of clear and unclear as I used for the photographs. 
 	
-The ATL editors use the notation `< >` to mark “letters read by the editors which were wrongly cut or inadvertently omitted by the stonecutter” (*ATL* Volume II, page 7). These are instances where there is a clearly legible character visible on the stone but they have chosen to change it to another. Reasons for doing so include supposed misspellings of place names and odd payment amounts. Although these may be valid interpretations, I could not call this a diplomatic edition if I chose to handle these possibly puzzling entries in the same way. I do not want to eliminate the possibility that these are examples of alternate forms rather than misspellings of place names and that *poleis* only paid tribute in neat round amounts. 
+The ATL editors use the notation `< >` to mark “letters read by the editors which were wrongly cut or inadvertently omitted by the stonecutter” (*ATL* Volume II, p. 7). These are instances where there is a clearly legible character visible on the stone but they have chosen to change it to another. Reasons for doing so include supposed misspellings of place names and odd payment amounts. Although these may be valid interpretations, I could not call this a diplomatic edition if I chose to handle these possibly puzzling entries in the same way. I do not want to eliminate the possibility that these are examples of alternate forms rather than misspellings of place names and that *poleis* only paid tribute in neat round amounts. 
 
 Where the ATL editors have used the notation ( ) to mark “letters added by way of interpretation of an abbreviated text” I use the TEI markup `<choice><abbr></abbr><expan></expan></choice>`. In these cases, the stonecutter abbreviated the place name due to limited space and the added letters are simply giving the full form of the place name. 
 
