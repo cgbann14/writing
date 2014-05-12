@@ -26,7 +26,7 @@ In addition to the tribute lists, the following inscriptions are essential for a
 ## Secondary Sources ##
 
 
-
+Pritchett, W. Kendrick. "The Transfer of the Delian Treasury." Historia: Zeitschrift Für Alte Geschichte Bd. 18.H. 1 (1969): 17-21. 
 
 
 
