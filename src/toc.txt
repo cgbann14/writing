@@ -1,5 +1,4 @@
 Preface.md=Preface
-ShortTitles.md=Works cited by short title
 Introduction.md=Introduction
 Editorial-Method.md=Editorial method
 guide-to-stele-1.md=Guide to reading stele 1
