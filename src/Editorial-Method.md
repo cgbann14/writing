@@ -46,7 +46,12 @@ All extant text is wrapped with a tag '<seg n="1" type="stone">' identifies whic
 	
 The ATL editors use the notation `< >` to mark “letters read by the editors which were wrongly cut or inadvertently omitted by the stonecutter” (*ATL* Volume II, p. 7). These are instances where there is a clearly legible character visible on the stone but they have chosen to change it to another. Reasons for doing so include supposed misspellings of place names and odd payment amounts. Although these may be valid interpretations, I could not call this a diplomatic edition if I chose to handle these possibly puzzling entries in the same way. I do not want to eliminate the possibility that these are examples of alternate forms rather than misspellings of place names and that *poleis* only paid tribute in neat round amounts. 
 
-Where the ATL editors have used the notation ( ) to mark “letters added by way of interpretation of an abbreviated text” I use the TEI markup `<choice><abbr></abbr><expan></expan></choice>`. In these cases, the stonecutter abbreviated the place name due to limited space and the added letters are simply giving the full form of the place name. 
+Where the ATL editors have used the notation ( ) to mark “letters added by way of interpretation of an abbreviated text” I use the TEI markup
+
+    <choice><abbr></abbr><expan></expan></choice>
+
+
+In these cases, the stonecutter abbreviated the place name due to limited space and the added letters are simply giving the full form of the place name. 
 
 I have assigned a numerical identifier to each place name. When there are variant spellings of a place name, they are all given the same identifier since they refer to the same place. 
 
